@@ -1,5 +1,5 @@
 {
-    "user" : "root",
-    "password" : "noorf321",
-    "database" : "kompas"   
+    "user" : "", #insert your mysqlusername
+    "password" : "", #insert your mysql password
+    "database" : "kompas"   ##insert your mysql database name
 }
